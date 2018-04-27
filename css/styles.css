@@ -1,8 +1,10 @@
 .jumbotron{
   background-image: url("../mpft-ip/mpft-ip/ip2/assets/backgrounds/landing.jpg");
-height: 700px;
+height: 800px;
 background-size: cover;
+margin:0;
 }
+
 .logo{
   margin: auto;
   text-align: center;
@@ -26,12 +28,15 @@ padding: 0px;
   text-align: center;
   color:white;
   font-size:300%;
+  margin: 0px;
 }
 .images1{
   background-image: url("../mpft-ip/mpft-ip/ip2/assets/foodtop/breakfast.jpg");
   padding: 110px;
   color: #ffffff;
   margin: 0px;
+  margin-bottom: auto;
+
 }
 .images2  {
   background-image: url("../mpft-ip/mpft-ip/ip2/assets/foodtop/lunch.jpg");
