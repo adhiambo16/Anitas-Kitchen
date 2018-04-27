@@ -56,3 +56,23 @@ padding: 0px;
 .pg{
   text-align: center;
 }
+h6{
+  color:#ffffff;
+}
+.container-fluid-2{
+  background-image: url("../mpft-ip/subscribe.jpg");
+  padding: 105px;
+}
+.container-fluid-3{
+  background-color: #F15A29;
+  text-align: center;
+}
+.container-fluid-4{
+  padding-top: 200px;
+  background-repeat: no-repeat;
+  text-align: center;
+  color:white;
+}
+h5{
+  color: white;
+}
