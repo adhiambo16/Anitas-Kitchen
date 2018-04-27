@@ -1,5 +1,5 @@
 .jumbotron{
-  background-image: url("../mpft-ip/mpft-ip/ip2/assets/backgrounds/landing.jpg");
+  background-image: url("../mpft-ip/landing.jpg");
 height: 800px;
 background-size: cover;
 margin:0;
@@ -31,7 +31,7 @@ padding: 0px;
   margin: 0px;
 }
 .images1{
-  background-image: url("../mpft-ip/mpft-ip/ip2/assets/foodtop/breakfast.jpg");
+  background-image: url("../mpft-ip/breakfast.jpg");
   padding: 110px;
   color: #ffffff;
   margin: 0px;
@@ -39,12 +39,12 @@ padding: 0px;
 
 }
 .images2  {
-  background-image: url("../mpft-ip/mpft-ip/ip2/assets/foodtop/lunch.jpg");
+  background-image: url("../mpft-ip/lunch.jpg");
   color: #ffffff;
     padding: 110px;
 }
 .images3  {
-  background-image: url("../mpft-ip/mpft-ip/ip2/assets/foodtop/dinner.jpg");
+  background-image: url("../mpft-ip/dinner.jpg");
     padding: 110px;
       color: #ffffff;
 
