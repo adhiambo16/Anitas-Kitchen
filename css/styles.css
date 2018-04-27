@@ -32,7 +32,7 @@ padding: 0px;
 }
 .images1{
   background-image: url("../mpft-ip/breakfast.jpg");
-  padding: 110px;
+  padding: 105px;
   color: #ffffff;
   margin: 0px;
   margin-bottom: auto;
@@ -41,11 +41,14 @@ padding: 0px;
 .images2  {
   background-image: url("../mpft-ip/lunch.jpg");
   color: #ffffff;
-    padding: 110px;
+    padding: 105px;
 }
 .images3  {
   background-image: url("../mpft-ip/dinner.jpg");
-    padding: 110px;
+    padding: 105px;
       color: #ffffff;
 
+}
+.bg{
+  padding: 0px;
 }
