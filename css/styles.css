@@ -1,4 +1,8 @@
 .jumbotron{
-  background-image: url("../css/assets/backgrounds/landing.jpg");
+  background-image: url("../mpft-ip/mpft-ip/ip2/assets/backgrounds/landing.jpg");
 
+}
+.logo{
+  margin: auto;
+  text-align: center;
 }
